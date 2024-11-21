@@ -9,6 +9,8 @@ Making browsers be able to execute local programs, and to call each other.
 
 BUT, please pay attention to safety issues.
 
+[See also](https://www.cnblogs.com/BigSystemsView/p/18075192)
+
 ## ② SSK: Super Keyboard Simulator
 Calling the underlying layer to simulate all keyboard operations.
 
