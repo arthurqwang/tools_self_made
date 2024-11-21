@@ -14,14 +14,22 @@ BUT, please pay attention to safety issues.
 ## ② SSK: Super Keyboard Simulator
 Calling the underlying layer to simulate all keyboard operations.
 
+[See also](https://www.cnblogs.com/BigSystemsView/p/18060787)
+
 ## ③ QuicKeys: Intelligent Login Assistant
 Automatically filling in username/password via this program.
+
+[See also](https://www.cnblogs.com/BigSystemsView/p/13613306.html)
 
 ## ④ PPT Timer
 Dynamically displaying date, time, and timer at any position in the PPT.
 
+[See also](https://www.cnblogs.com/BigSystemsView/p/16531624.html)
+
 ## ⑤ Python Test
 Simulating the process of three-door problems and study Python's efficiency.
+
+[See also](https://www.cnblogs.com/BigSystemsView/p/13901753.html)
 
 <br><br><br><br>
 
