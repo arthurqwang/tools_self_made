@@ -11,7 +11,7 @@ BUT, please pay attention to safety issues.
 
 [See also](https://www.cnblogs.com/BigSystemsView/p/18075192)
 
-## ② SSK: Super Keyboard Simulator
+## ② SSK: SuperSimulator of Keyboard
 Calling the underlying layer to simulate all keyboard operations.
 
 [See also](https://www.cnblogs.com/BigSystemsView/p/18060787)
