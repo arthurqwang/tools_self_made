@@ -1,6 +1,27 @@
 #### [中文🔃](#english)
+# Tools Self Made
+Arthur is a picky programmer, and the tools I use must be convenient, otherwise I will go mad.
 
+Therefore, I often made some small tools by hand. Here are a few commonly used ones that can still be found:
 
+## ① RunOnWeb Protocol
+Making browsers be able to execute local programs, and to call each other.
+
+BUT, please pay attention to safety issues.
+
+## ② SSK: Super Keyboard Simulator
+Calling the underlying layer to simulate all keyboard operations.
+
+## ③ QuicKeys: Intelligent Login Assistant
+Automatically filling in username/password via this program.
+
+## ④ PPT Timer
+Dynamically displaying date, time, and timer at any position in the PPT.
+
+## ⑤ Python Test
+Simulating the process of three-door problems and study Python's efficiency.
+
+<br><br><br><br>
 
 #### [English🔃](#中文)
 # 自制工具
