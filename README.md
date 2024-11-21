@@ -44,15 +44,27 @@ Simulating the process of three-door problems and study Python's efficiency.
 
 注意安全问题。
 
+[参见](https://www.cnblogs.com/BigSystemsView/p/18075192)
+
 ## ② SSK: 超级键盘模拟器
 调用底层，模拟所有键盘操作。
+
+[参见](https://www.cnblogs.com/BigSystemsView/p/18060787)
 
 ## ③ 快Key: QuicKeys智能登录助手
 自动填写用户名/密码的程序。
 
+[参见](https://www.cnblogs.com/BigSystemsView/p/13613306.html)
+
 ## ④ PPT计时器
 在PPT中任意位置动态显示日期时间和计时器。
 
+[参见](https://www.cnblogs.com/BigSystemsView/p/16531624.html)
+
 ## ⑤ Python对比实验
 模拟三门问题过程，对比Python效率。
+
+[参见](https://www.cnblogs.com/BigSystemsView/p/13901753.html)
+
+<br><br><br>
 
