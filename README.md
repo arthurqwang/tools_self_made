@@ -1,5 +1,3 @@
-test
-
 #### [中文🔃](#english)
 # Tools Self Made
 Arthur is a picky programmer, and the tools I use must be convenient, otherwise I will go mad.
